@@ -1,0 +1,269 @@
+html{
+ -webkit-touch-callout: none;
+    -webkit-user-select: none;
+    -khtml-user-select: none;
+    -moz-user-select: none;
+    -ms-user-select: none;
+    user-select: none;
+	word-wrap: break-word;
+
+
+}
+.CursiveScriptLight { 
+	font-family: CursiveScriptLight;
+	font-weight: normal;
+	font-style: normal;
+}
+.CursiveScript { 
+	font-family: CursiveScript;
+	font-weight: normal;
+	font-style: normal;
+}
+.Cabrito-NorReg { 
+	font-family: Cabrito-NorReg;
+	font-weight: normal;
+	font-style: normal;
+}
+
+/********************************!!!!****************************************/
+.titleSpace{
+	position: absolute;
+	width: 100%;
+	top: 38%;
+	}
+
+.buttOn{
+	font-family: CursiveScript;
+	font-size: 18px;
+}
+.changeActivity{
+	margin-top:13px;
+}
+span{
+	display: block;
+}
+footer{
+	text-align: center;
+	width: 100%;
+	height: 10%;
+	border-top: solid #999 1px;
+	position: absolute;
+	bottom: 0;
+	background: white;
+}
+.headinger{
+	font-size: 26px;
+	text-align: center;
+	z-index: 10;
+	margin: 5px 0;
+}
+
+.for{
+	/* font-style: italic; */
+	  line-height: 100%;
+}
+.panel{
+	padding-top: 9px;
+	font-weight: bold;
+	font-size:33px;
+}
+#progress{
+	width: 100%;
+	height: 30px;
+	background: lightgray; 
+}
+.spcontainer{
+	height: 10%;
+	background: white;
+		font-family: Cabrito-NorReg;
+
+}
+#bar{
+	width: 80.8%;
+	height: 100%;
+	background: red;
+	border-radius: 0 100px 100px 0;
+}
+#main{
+	width: 100%;
+	height: 100%;
+}
+.slide{
+		background: red;
+}
+.slider, .slide-group, .slide{
+	    display: block;
+    vertical-align: top;
+
+		width: 100%;
+		height: 100%;
+		background: white;
+}
+.space{
+width: 100%;
+height: 19%;
+background: white;
+}
+.contentt{
+	padding-top: 35px;
+	color: white;
+	height: 72%;
+	
+}
+.centregus{
+	margin: 0 auto;
+}
+#forer{
+}
+#bar{
+	background: #4944BB;
+}
+#a{
+	background: #E59F00;
+}
+#b{
+		background: #EB26729;	
+}
+#c{
+		background: #5ABCAF;
+
+}
+#d{
+		background: #1DE593;
+
+}
+.f{
+	font-size: 15px;
+}
+#ACT{
+	font-size: 40px;
+}
+
+#fixeds{
+	z-index: 1;
+position: absolute;
+display: block;
+text-align: center;
+width: 100%;
+top: 8.7%;
+background: white;
+height: 22%;
+}  
+
+#smilecounter{
+	padding: 11px;
+	font-size:19px;
+}
+#mainApp, #logionSection{
+	display: none;
+}
+
+
+h1{
+	font-size: 2em;
+}
+.Acttt{
+	position: absolute;
+	top: 37%;
+	width: 100%;
+	
+} .ActttInsider{
+	margin: 0 auto;
+	font-weight: bold;
+	text-align:center;
+}
+
+.Smilesss{
+	position: absolute;
+		width: 100%;
+	top: 78px;
+	
+} .SmilesssInsider{
+	margin: 0 auto;
+	text-align: center;
+
+}
+.makeMyDay{
+	position: absolute;
+	width: 100%;
+	top: 50%;
+
+} .makeMyDayInsider{
+	margin: 0 auto;
+	text-align: center;
+		font-size: 46px;
+}
+.newActivity{
+	position: absolute;
+	width: 100%;
+	top: 40%;
+
+} .newActivityInsider{
+	margin: 0 auto;
+	text-align: center;
+		font-size: 35px;
+}
+.manage{
+	position: absolute;
+	width: 100%;
+	top: 55%;
+
+} .manageInsider{
+	margin: 0 auto;
+	text-align: center;
+		font-size: 35px;
+}
+.settings{
+	position: absolute;
+	width: 100%;
+	top: 70%;
+
+} .settingsInsider{
+	margin: 0 auto;
+	text-align: center;
+		font-size: 35px;
+}
+.howto{
+	position: absolute;
+	width: 100%;
+	top: 85%;
+
+} .howtoInsider{
+	margin: 0 auto;
+	text-align: center;
+		font-size: 35px;
+}
+
+.savedActs{
+	position: absolute;
+	width: 100%;
+	bottom: 3%;
+
+} .savedActsInsider{
+	margin: 0 auto;
+	text-align: center;
+		font-size: 27px;
+}
+.slide{
+	word-wrap: break-word;
+}
+/********************************!!!!****************************************/
+.actionButtons{
+	position: absolute;
+	bottom: 7%;
+	width: 100%;
+	text-align:center;
+}
+.doThisActivityInsider{
+	font-size: 45px;
+	margin: 0 auto;
+	
+	padding-bottom: 15px;
+
+}
+
+.changeActivityInsider{
+		font-size: 39px;
+		margin: 0 auto;
+
+}
